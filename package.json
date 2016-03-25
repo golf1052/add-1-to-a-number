@@ -1,0 +1,22 @@
+{
+  "name": "add-1-to-a-number",
+  "contributors": [
+      {
+          "name": "Sanders Lauture",
+          "email": "golf1052@msn.com",
+          "url": "http://golf1052.com"
+      }
+  ],
+  "version": "1.0.0",
+  "description": "Adds 1 to a number",
+  "keywords": ["add", "adds", "1", "one", "number"],
+  "main": "index.js",
+  "scripts": {
+      "test": "mocha -u tdd"
+  },
+  "author": "golf1052",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.4.5"
+  }
+}
