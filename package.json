@@ -10,12 +10,20 @@
   "version": "1.0.0",
   "description": "Adds 1 to a number",
   "keywords": ["add", "adds", "1", "one", "number"],
+  "homepage": "https://github.com/golf1052/add-1-to-a-number",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/golf1052/add-1-to-a-number.git"
+  },
+  "bugs": {
+      "url": "https://github.com/golf1052/add-1-to-a-number/issues"
+  },
   "main": "index.js",
   "scripts": {
       "test": "mocha -u tdd"
   },
   "author": "golf1052",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "mocha": "2.4.5"
   }

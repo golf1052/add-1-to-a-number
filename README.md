@@ -15,7 +15,7 @@ console.log(add1(1));
 
 ### add1(number)
 #### Number
-Type: `number`
+Type: `number`  
 A number
 
 #### Returns
